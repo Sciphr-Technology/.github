@@ -1,6 +1,10 @@
 
 
 <h1 align="center"><b>Sciphr Technology </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://discord.gg/sciphr" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developers;Data+Analysts;Games+Developers;Mobile+Apps+Developers;Awesome+and+Cool+Poeple"></a>
